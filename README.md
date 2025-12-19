@@ -20,7 +20,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
 ![Stacks](https://img.shields.io/badge/Stacks-5546FF?style=for-the-badge\&logo=stacks\&logoColor=white)
 
-**Frontend (when needed)**
+**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 
